@@ -12,3 +12,17 @@ button{
   color:white;
   border-radius: 5px;
 }
+
+#mode{
+  background-color: green;
+  margin-top: 30px;
+}
+
+.dark{
+background-color: black;
+color: white;
+}
+.light{
+background-color: white;
+color: black;
+}
